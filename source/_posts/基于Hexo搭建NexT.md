@@ -19,13 +19,12 @@ date: 2018-02-25 20:02:40
 #### 创建远程仓库同步本地的过程
 1. [git安装](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 2. [配置SSH说明](https://help.github.com/articles/connecting-to-github-with-ssh/)
-3. [hexo d免密码登录](http://blog.csdn.net/forevercjl/article/details/39557713)
 
 #### Hexo快速入门
 1. [hexo安装](https://hexo.io/zh-cn/docs/index.html)
 2. [hexo部署](https://hexo.io/zh-cn/docs/deployment.html)
 3. [hexo主题安装](http://theme-next.iissnan.com/getting-started.html)
-
+4. [Permission denied (publickey)问题](http://www.linmuxi.com/2016/02/24/github-config-ssh/)
 #### NexT轻松上手
 1. [next主题配置](http://theme-next.iissnan.com/theme-settings.html)  
 2. [next第三方服务](http://theme-next.iissnan.com/third-party-services.html)  
