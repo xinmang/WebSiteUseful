@@ -25,6 +25,7 @@ date: 2018-02-25 20:02:40
 2. [hexo部署](https://hexo.io/zh-cn/docs/deployment.html)
 3. [hexo主题安装](http://theme-next.iissnan.com/getting-started.html)
 4. [Permission denied (publickey)问题](http://www.linmuxi.com/2016/02/24/github-config-ssh/)
+5. [git push输入密码的问题](http://blog.csdn.net/u013647382/article/details/47832559)
 #### NexT轻松上手
 1. [next主题配置](http://theme-next.iissnan.com/theme-settings.html)  
 2. [next第三方服务](http://theme-next.iissnan.com/third-party-services.html)  
