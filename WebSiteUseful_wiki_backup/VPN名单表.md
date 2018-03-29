@@ -6,6 +6,7 @@ vpn|使用限制|
 |[zenmate](https://zenmate.com/)|付费|
 |[ExpressVPN](https://www.expressvpn.com)|付费|
 |[CactusVpn](https://www.cactusvpn.com)|付费|
+|[PlexVpn](https://www.plexvip.com/)|付费|
 |[ibvpn](https://www.ibvpn.com)|付费|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
